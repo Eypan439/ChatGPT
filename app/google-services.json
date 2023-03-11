@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837917845112",
+    "project_id": "chatgpt-45eca",
+    "storage_bucket": "chatgpt-45eca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837917845112:android:48a42f513bc23f85562f8d",
+        "android_client_info": {
+          "package_name": "com.eypancakir.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837917845112-aeq8rglk63u1q250c43njmu20k0cv4t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCchXWkdq2Dtbkk2t-lgAm8cbcct3lx1xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837917845112-aeq8rglk63u1q250c43njmu20k0cv4t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
